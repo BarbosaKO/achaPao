@@ -1,0 +1,45 @@
+#bg{
+    background-color: black;
+    height: 100vh;
+}
+
+#visor{
+    font-size: medium;
+    font-weight: bold;
+    padding: 12px;
+    margin: 0;
+    text-align: start;
+    color: black;
+}
+
+p{
+    text-align: center;
+}
+
+.btn-azul{
+    color: white;
+    padding: 12px;
+    background-color: blue;
+    height: 72px;
+    margin-bottom: 16px;
+}
+
+.btn-azul p{
+    margin-bottom: 0;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.btn-branco p{
+    margin-bottom: 0;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.btn-branco{
+    padding: 12px;
+    background-color: white;
+    height: 70px;
+    margin-bottom: 16px;
+}
+
